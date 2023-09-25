@@ -1,2 +1,2 @@
 ## pure mathematics
-All about pure mathematics concepts applied to computing
+All about pure mathematics concepts applied in computing
